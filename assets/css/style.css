@@ -23,6 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/* changed "header div" to "header nav" to link properly with the HTML code*/
 
 .header nav {
     padding-top: 2%;
