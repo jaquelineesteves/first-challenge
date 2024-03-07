@@ -15,5 +15,7 @@ This layout is designed for desktop viewing.
 
 N/A
 ---
-repo: https://github.com/jaquelineesteves/refactor-horiseon.git
-deployed page: https://jaquelineesteves.github.io/refactor-horiseon/
+https://github.com/jaquelineesteves/refactor-horiseon.git
+
+## deployed page: 
+https://jaquelineesteves.github.io/refactor-horiseon/
