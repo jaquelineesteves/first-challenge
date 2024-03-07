@@ -32,6 +32,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 18px;
 }
+/* removed the "div" from the uls, because I changed it to "header" and "nav" in HTML */
 
 .header  ul {
     list-style-type: none;
